@@ -28,9 +28,7 @@
 | 21 |	Write a Program in Java to Check Given String is Palindrome String Or Not in Java. | [Code](https://github.com/theakashshukla/Java/tree/main/Project%2021) |
 | 22 |	Write a Program in Java to Reverse Each Word of Given String. | [Code](https://github.com/theakashshukla/Java/tree/main/Project%2022) |
 | 23 |	Write a Program in Java to Get Sub String from a Given String. | [Code](https://github.com/theakashshukla/Java/tree/main/Project%2023) |
-| 24 | Java Program to Convert String to Lowercase and Uppercase. | [Code](https://github.com/theakashshukla/Java/tree/main/Project%2024) |
-| 25 | Create a Java Applet and Show the use of Drawstring() Function. | [Code](https://github.com/theakashshukla/Java/tree/main/Project%2025) |
-| 26 | Create a Java Applet to Show How to use Various Methods of Applet Class and Graphics Class in a Java Applet. | [Code](https://github.com/theakashshukla/Java/tree/main/Project%2026) |
+
 
 
 ## Related
