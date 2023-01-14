@@ -11,6 +11,7 @@ int power(int m, int n)
         p=p*m;
     }
     return p;
+
 }
 
 int main()
